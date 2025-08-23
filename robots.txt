@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://roywikan.github.io/lose.weight.my.id/sitemap.xml

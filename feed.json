@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Lose Weight",
+    "description": "",
+    "home_page_url": "https://roywikan.github.io/lose.weight.my.id",
+    "feed_url": "https://roywikan.github.io/lose.weight.my.id/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Dr. Weikath"
+    },
+    "items": [
+        {
+            "id": "https://roywikan.github.io/lose.weight.my.id/the-second-chance/",
+            "url": "https://roywikan.github.io/lose.weight.my.id/the-second-chance/",
+            "title": "The Second Chance",
+            "summary": "second chance",
+            "content_html": "<p>second chance</p>",
+            "author": {
+                "name": "Dr. Weikath"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-23T18:44:14+07:00",
+            "date_modified": "2025-08-23T18:44:14+07:00"
+        },
+        {
+            "id": "https://roywikan.github.io/lose.weight.my.id/hello-lose/",
+            "url": "https://roywikan.github.io/lose.weight.my.id/hello-lose/",
+            "title": "Hello Lose",
+            "summary": "trial post",
+            "content_html": "<p>trial post</p>",
+            "author": {
+                "name": "Dr. Weikath"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-21T23:05:16+07:00",
+            "date_modified": "2025-08-21T23:12:25+07:00"
+        }
+    ]
+}
