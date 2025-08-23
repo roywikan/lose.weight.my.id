@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Lose Weight",
     "description": "",
-    "home_page_url": "https://roywikan.github.io/lose.weight.my.id",
-    "feed_url": "https://roywikan.github.io/lose.weight.my.id/feed.json",
+    "home_page_url": "https://lose.weight.my.id",
+    "feed_url": "https://lose.weight.my.id/feed.json",
     "user_comment": "",
     "author": {
         "name": "Dr. Weikath"
     },
     "items": [
         {
-            "id": "https://roywikan.github.io/lose.weight.my.id/jan-wa-diana/",
-            "url": "https://roywikan.github.io/lose.weight.my.id/jan-wa-diana/",
+            "id": "https://lose.weight.my.id/jan-wa-diana/",
+            "url": "https://lose.weight.my.id/jan-wa-diana/",
             "title": "Jan Wa Diana",
             "summary": "sudahkah dia tertangkap?",
             "content_html": "<p>sudahkah dia tertangkap?</p>\n<p> </p>",
@@ -24,8 +24,8 @@
             "date_modified": "2025-08-23T21:16:09+07:00"
         },
         {
-            "id": "https://roywikan.github.io/lose.weight.my.id/the-second-chance/",
-            "url": "https://roywikan.github.io/lose.weight.my.id/the-second-chance/",
+            "id": "https://lose.weight.my.id/the-second-chance/",
+            "url": "https://lose.weight.my.id/the-second-chance/",
             "title": "The Second Chance",
             "summary": "second chance",
             "content_html": "<p>second chance</p>",
@@ -38,8 +38,8 @@
             "date_modified": "2025-08-23T18:44:14+07:00"
         },
         {
-            "id": "https://roywikan.github.io/lose.weight.my.id/hello-lose/",
-            "url": "https://roywikan.github.io/lose.weight.my.id/hello-lose/",
+            "id": "https://lose.weight.my.id/hello-lose/",
+            "url": "https://lose.weight.my.id/hello-lose/",
             "title": "Hello Lose",
             "summary": "trial post",
             "content_html": "<p>trial post</p>",
